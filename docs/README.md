@@ -23,7 +23,8 @@ This repository contains comprehensive documentation for each phase of the OctoA
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** — Identifying and managing risks, stakeholder communication, and escalation paths
 - **[Release & Deployment Guide](octoacme-release-and-deployment.md)** — Release types, pre-release requirements, deployment checklists, and rollback procedures
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Capturing learnings and converting them into actionable improvements
-- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed definitions of responsibilities for Developers, Product Managers, and Project Managers
+- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed definitions of responsibilities for all project roles, including reporting lines, key interactions, and cross-functional handoff checklists
+- **[Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)** — Structured onboarding template for new team members to understand responsibilities and project processes
 
 ## Getting Started
 
@@ -31,7 +32,8 @@ If you're new to OctoAcme project management:
 
 1. Start with the **[Project Management Overview](octoacme-project-management-overview.md)** to understand our principles and approach
 2. Review **[Roles and Personas](octoacme-roles-and-personas.md)** to understand your responsibilities and how you interact with others
-3. Follow the process documents in sequence when starting a new project: Initiation → Planning → Execution → Release → Retrospective
+3. Complete the **[Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)** to ensure you understand your role and have necessary access
+4. Follow the process documents in sequence when starting a new project: Initiation → Planning → Execution → Release → Retrospective
 
 ## Using These Documents
 
